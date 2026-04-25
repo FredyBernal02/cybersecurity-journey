@@ -1,5 +1,9 @@
 # Network Topology Lab (Packet Tracer)
 
+## Diagram
+
+![Network Topology](../images/topology-lab.png)
+
 ## Objective
 Build and simulate a network topology using Cisco Packet Tracer to understand how devices communicate across networks.
 

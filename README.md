@@ -1,40 +1,28 @@
 # 🔐 Cybersecurity Journey
 
-This repository documents my learning path in cybersecurity.
+This repository documents my hands-on learning path in cybersecurity, networking, and technical foundations.
+
+My goal is to build strong real-world skills and transition into a professional role in IT / Cybersecurity.
 
 ---
 
-## 🎯 Goal
-To build strong foundations in cybersecurity and transition into a professional role in the field.
+## 📚 Current Focus
+
+- Networking Fundamentals
+- Cisco Packet Tracer Labs
+- Cybersecurity Basics
+- Linux Foundations
+- Technical Documentation
 
 ---
 
-## 📚 Platforms
-- TryHackMe
+## 📁 Repository Structure
 
----
+```text
+networking/
+├── fundamentals/
+├── labs/
+├── images/
 
-## 🧠 Topics I'm Learning
-- Networking fundamentals  
-- OSI Model  
-- Ports & Protocols  
-- Linux basics  
-- Web security  
-
----
-
-## 📅 Progress
-
-### Day 1 – OSI Model
-- Learned the 7 layers of the OSI model  
-- Understood how data moves through the network  
-
-### Day 2 – TCP/IP & Ports
-- Learned common ports (80, 443, 22, etc.)  
-- Understood basic protocols  
-
----
-
-## 🚀 Next Steps
-- Start documenting hands-on labs from TryHackMe  
-- Practice networking concepts  
+tryhackme/
+├── pre-security/
